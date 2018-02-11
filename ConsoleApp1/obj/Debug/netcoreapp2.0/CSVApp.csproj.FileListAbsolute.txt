@@ -1,0 +1,11 @@
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\bin\Debug\netcoreapp2.0\CSVApp.deps.json
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\bin\Debug\netcoreapp2.0\CSVApp.runtimeconfig.json
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\bin\Debug\netcoreapp2.0\CSVApp.runtimeconfig.dev.json
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\bin\Debug\netcoreapp2.0\CSVApp.dll
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\bin\Debug\netcoreapp2.0\CSVApp.pdb
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.csprojResolveAssemblyReference.cache
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.csproj.CoreCompileInputs.cache
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.AssemblyInfoInputs.cache
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.AssemblyInfo.cs
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.dll
+C:\Users\Lappu\Desktop\DateNameApp-master\ConsoleApp1\obj\Debug\netcoreapp2.0\CSVApp.pdb

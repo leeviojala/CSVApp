@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVApp", "ConsoleApp1\CSVApp.csproj", "{A5D8B0FB-FD86-4036-95E9-BE910F3CC47D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F26C8901-C61A-4FA8-B2C0-22BE65EDFB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D8B0FB-FD86-4036-95E9-BE910F3CC47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D8B0FB-FD86-4036-95E9-BE910F3CC47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D8B0FB-FD86-4036-95E9-BE910F3CC47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D8B0FB-FD86-4036-95E9-BE910F3CC47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26C8901-C61A-4FA8-B2C0-22BE65EDFB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26C8901-C61A-4FA8-B2C0-22BE65EDFB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26C8901-C61A-4FA8-B2C0-22BE65EDFB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26C8901-C61A-4FA8-B2C0-22BE65EDFB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E09DAC0-5949-485E-878F-E231BBD68244}
+	EndGlobalSection
+EndGlobal
