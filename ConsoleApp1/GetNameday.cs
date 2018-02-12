@@ -15,10 +15,11 @@ namespace ConsoleApp1
         public string numberError = "Whoops! Did you enter a number?";
         public void SetLists(String path)
         {
-            using (var reader = new StreamReader(path))
-            {
 
-                try
+
+            try
+            {
+                using (var reader = new StreamReader(path))
                 {
                     while (!reader.EndOfStream)
                     {
@@ -30,11 +31,12 @@ namespace ConsoleApp1
 
                     }
                 }
-                catch (Exception ex)
-                {
-                    throw new ApplicationException("Something wrong with csv file :", ex);
-                }
             }
+            catch (Exception ex)
+            {
+                throw new ApplicationException("Something wrong with csv file :", ex);
+            }
+            
         }
 
         public void Namedays()
